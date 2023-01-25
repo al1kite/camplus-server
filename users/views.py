@@ -52,7 +52,6 @@ class UserActivate(APIView):
                 return HttpResponseRedirect(reverse('user:login'))
             else:
                 return HttpResponseRedirect(reverse('user:register'))
-                # return Response('만료된 링크입니다', status=status.HTTP_400_BAD_REQUEST)
 
         except Exception as e:
             print(traceback.format_exc())

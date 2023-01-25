@@ -77,7 +77,7 @@ class RegisterSerializer(serializers.ModelSerializer):
             'token': account_activation_token.make_token(user),
         })
 
-        mail_subject = 'test'
+        mail_subject = 'Complete your account registration'
         to_email = user.email
         email = EmailMessage(mail_subject, message, to=[to_email])
         email.send()
