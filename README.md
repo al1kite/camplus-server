@@ -76,3 +76,20 @@
 * University 모델 추가 생성을 통해 User 모델과 분리
 * DRF 에서 제공하는 TokenAuthentication 사용하여 Token만으로 인증을 하였기에 보안에 취약하므로 향후 JWT 방식으로 변경
 
+![슬라이드11](https://github.com/al1kite/camplus-BE/assets/102217402/f18c9bac-fc6e-4bcb-902d-978a1398d97a)
+![슬라이드12](https://github.com/al1kite/camplus-BE/assets/102217402/7e85cbd3-97e7-4683-a499-81f0e47e3b2c)
+![슬라이드13](https://github.com/al1kite/camplus-BE/assets/102217402/6b7eeee8-a85b-43ef-ba48-f244c417081d)
+![슬라이드14](https://github.com/al1kite/camplus-BE/assets/102217402/9f4deccc-de26-46bb-8560-5f7ce3cf6400)
+![슬라이드15](https://github.com/al1kite/camplus-BE/assets/102217402/e614cb03-7df8-47b0-b3c2-f6d420c2f25c)
+![슬라이드16](https://github.com/al1kite/camplus-BE/assets/102217402/21758d96-b5a9-4f39-9713-e367eca4440c)
+![슬라이드17](https://github.com/al1kite/camplus-BE/assets/102217402/bd901e00-94e7-4e7c-84a5-d1c47543cf60)
+![슬라이드18](https://github.com/al1kite/camplus-BE/assets/102217402/764e4509-4288-4545-9abe-11267de90410)
+![슬라이드19](https://github.com/al1kite/camplus-BE/assets/102217402/1147d45a-369b-4bf8-a5de-fca4f8995f98)
+![슬라이드20](https://github.com/al1kite/camplus-BE/ass
+![슬라이드21](https://github.com/al1kite/camplus-BE/assets/102217402/e6d75d19-ab91-4883-8037-4bce93708258)
+![슬라이드22](https://github.com/al1kite/camplus-BE/assets/102217402/1dc42279-896d-4ca0-8271-b7ef4c46793b)
+![슬라이드23](https://github.com/al1kite/camplus-BE/assets/102217402/43814917-f278-43f1-93cc-351fcc25792f)
+ets/102217402/fa329faa-ba28-45d5-8ce8-b58934e5
+![슬라이드24](https://github.com/al1kite/camplus-BE/assets/102217402/ca4e7cae-7c81-4398-958b-a7a34210a4df)
+e86e)
+![camplus-발표자료 (3)](https://github.com/al1kite/camplus-BE/assets/102217402/c7f695d8-1025-4f14-9a1e-b3a13c7c38eb)
