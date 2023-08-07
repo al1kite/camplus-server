@@ -85,11 +85,10 @@
 ![슬라이드17](https://github.com/al1kite/camplus-BE/assets/102217402/bd901e00-94e7-4e7c-84a5-d1c47543cf60)
 ![슬라이드18](https://github.com/al1kite/camplus-BE/assets/102217402/764e4509-4288-4545-9abe-11267de90410)
 ![슬라이드19](https://github.com/al1kite/camplus-BE/assets/102217402/1147d45a-369b-4bf8-a5de-fca4f8995f98)
-![슬라이드20](https://github.com/al1kite/camplus-BE/ass
+![슬라이드20](https://github.com/al1kite/camplus-BE/assets/102217402/203162c9-3eff-4200-8f20-d4e15410cc8b)
 ![슬라이드21](https://github.com/al1kite/camplus-BE/assets/102217402/e6d75d19-ab91-4883-8037-4bce93708258)
 ![슬라이드22](https://github.com/al1kite/camplus-BE/assets/102217402/1dc42279-896d-4ca0-8271-b7ef4c46793b)
 ![슬라이드23](https://github.com/al1kite/camplus-BE/assets/102217402/43814917-f278-43f1-93cc-351fcc25792f)
-ets/102217402/fa329faa-ba28-45d5-8ce8-b58934e5
 ![슬라이드24](https://github.com/al1kite/camplus-BE/assets/102217402/ca4e7cae-7c81-4398-958b-a7a34210a4df)
-e86e)
 ![camplus-발표자료 (3)](https://github.com/al1kite/camplus-BE/assets/102217402/c7f695d8-1025-4f14-9a1e-b3a13c7c38eb)
+
