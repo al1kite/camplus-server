@@ -76,6 +76,7 @@
 * University 모델 추가 생성을 통해 User 모델과 분리
 * DRF 에서 제공하는 TokenAuthentication 사용하여 Token만으로 인증을 하였기에 보안에 취약하므로 향후 JWT 방식으로 변경
 
+## 발표 자료
 ![슬라이드11](https://github.com/al1kite/camplus-BE/assets/102217402/f18c9bac-fc6e-4bcb-902d-978a1398d97a)
 ![슬라이드12](https://github.com/al1kite/camplus-BE/assets/102217402/7e85cbd3-97e7-4683-a499-81f0e47e3b2c)
 ![슬라이드13](https://github.com/al1kite/camplus-BE/assets/102217402/6b7eeee8-a85b-43ef-ba48-f244c417081d)
