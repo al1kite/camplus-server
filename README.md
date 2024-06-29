@@ -74,7 +74,7 @@
 * 학교 이메일 인증 전에는 유저정보가 데이터베이스에 들어가지 않도록 설정
 * 서버측에서 학교 이메일 유효성 검사를 진행
 * University 모델 추가 생성을 통해 User 모델과 분리
-* DRF 에서 제공하는 TokenAuthentication 사용하여 Token만으로 인증을 하였기에 보안에 취약하므로 향후 JWT 방식으로 변경
+* DRF 에서 제공하는 TokenAuthentication 사용하여 단일 Token만으로 인증 -> AccessToken & RefreshToken 방식 변경
 
 ## 발표 자료
 ![슬라이드11](https://github.com/al1kite/camplus-BE/assets/102217402/f18c9bac-fc6e-4bcb-902d-978a1398d97a)
@@ -91,5 +91,4 @@
 ![슬라이드22](https://github.com/al1kite/camplus-BE/assets/102217402/1dc42279-896d-4ca0-8271-b7ef4c46793b)
 ![슬라이드23](https://github.com/al1kite/camplus-BE/assets/102217402/43814917-f278-43f1-93cc-351fcc25792f)
 ![슬라이드24](https://github.com/al1kite/camplus-BE/assets/102217402/ca4e7cae-7c81-4398-958b-a7a34210a4df)
-![camplus-발표자료 (3)](https://github.com/al1kite/camplus-BE/assets/102217402/c7f695d8-1025-4f14-9a1e-b3a13c7c38eb)
 
