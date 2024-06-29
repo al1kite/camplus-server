@@ -36,6 +36,7 @@
 ## 핵심 기능
 ### 학교 이메일 인증
 * 학교 생활 커뮤니티 홈페이지에 걸맞게 학교 이메일을 인증해야만 회원가입이 가능하도록 설정
+* DRF 에서 제공하는 TokenAuthentication 사용하여 Token 으로 유저 식별
 
 ### 필터링 
 * 회원가입 시 학교 선택 및 학교 이메일 인증 완료 후 로그인 시 회원의 학교 Camplus 커뮤니티로 이동
@@ -74,7 +75,6 @@
 * 학교 이메일 인증 전에는 유저정보가 데이터베이스에 들어가지 않도록 설정
 * 서버측에서 학교 이메일 유효성 검사를 진행
 * University 모델 추가 생성을 통해 User 모델과 분리
-* DRF 에서 제공하는 TokenAuthentication 사용하여 단일 Token만으로 인증 -> AccessToken & RefreshToken 방식 변경
 
 ## 발표 자료
 ![슬라이드11](https://github.com/al1kite/camplus-BE/assets/102217402/f18c9bac-fc6e-4bcb-902d-978a1398d97a)
